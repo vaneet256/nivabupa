@@ -1,0 +1,29 @@
+.app {
+  height: 150vh;
+  width: 98vw;
+  position: relative;
+}
+.navbar {
+  margin-top: 30px;
+  height: 80px;
+  width: 76%;
+  position: fixed;
+  background-color: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.1), 0 6px 20px 0 rgba(0, 0, 0, 0.1);
+}
+.navbar img {
+  height: 100%;
+}
+.body {
+  display: flex;
+  padding-top: 170px;
+  height: 78vh;
+  background-color: antiquewhite;
+}
+.content {
+  width: 50%;
+}
+.form {
+  width: 50%;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.07), 0 6px 20px 0 rgba(0, 0, 0, 0.07);
+}
